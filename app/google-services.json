@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318331726516",
+    "firebase_url": "https://changechat-577d8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "changechat-577d8",
+    "storage_bucket": "changechat-577d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318331726516:android:aca13a9f950ae4f504c5e1",
+        "android_client_info": {
+          "package_name": "com.example.changechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318331726516-evcucec8a7sgff5ip45ubfl61qsgcmsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.changechat",
+            "certificate_hash": "e05eda5965dadbab455523eff3a70e53a4d6e271"
+          }
+        },
+        {
+          "client_id": "318331726516-t4orq2agjhpcj90bl9o7acbcesdd9ttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqxOoxL-tIy_bIXO6N_9_8xppKCsfMnEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318331726516-12bgap7bcar5igrk8ujq3vl7m8o1bomd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
